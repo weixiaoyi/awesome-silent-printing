@@ -43,5 +43,5 @@ All languages below must be reachable from the top language switcher on every RE
 - [x] Initial commit
 - [x] Create public GitHub repository `awesome-silent-printing`
 - [x] Push `main` (baseline)
-- [ ] Push docs + README updates when ready
+- [x] Push docs + README updates when ready
 - [ ] Submit to related awesome meta-lists (after content is solid)

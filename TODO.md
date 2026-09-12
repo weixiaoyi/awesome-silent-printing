@@ -28,10 +28,6 @@ All languages below must be reachable from the top language switcher on every RE
 - [x] `CONTRIBUTING.zh-CN.md` (Chinese)
 - [ ] Mirror contribution notes into other languages when those READMEs are ready (optional)
 
-## Naming
-
-- [x] Product display name: always **`web-print-pdf (Web Print Expert)`** / **`web-print-pdf（Web Print Expert）`**
-
 ## Content
 
 - [x] Phase A README structure (limits / choose / bridges / vendors / remote / not-silent / matrix)

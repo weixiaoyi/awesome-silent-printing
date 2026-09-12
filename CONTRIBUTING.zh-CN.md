@@ -29,10 +29,6 @@ English · 中文 · 日本語 · Español · Português (Brasil) · 한국어 �
 2. 在每份 README 的「多语言 / Translations」表中标记为 Done。
 3. 勾选 `TODO.md` 中对应项。
 
-## 命名
-
-全文统一写作 **`web-print-pdf（Web Print Expert）`**（英文文档用 `web-print-pdf (Web Print Expert)`）。
-
 ## Pull Request
 
 - 描述保持简短、中立。

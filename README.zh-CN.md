@@ -189,8 +189,6 @@ MIT / 社区仓库，可用作 SDK 或起点（质量与维护状态不一）。
 
 欢迎 PR。条目请保持事实描述：名称、链接、一句话说明，以及关键限制（系统、许可、硬件绑定）。详见 [CONTRIBUTING.md](CONTRIBUTING.md) / [CONTRIBUTING.zh-CN.md](CONTRIBUTING.zh-CN.md)。
 
-列出该产品时统一写作 **`web-print-pdf（Web Print Expert）`**。
-
 ---
 
 ## 多语言

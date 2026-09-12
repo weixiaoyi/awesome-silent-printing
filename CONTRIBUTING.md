@@ -29,10 +29,6 @@ See [TODO.md](TODO.md). When finishing a language:
 2. Mark the language **Done** in the Translations table on every README.
 3. Check the matching box in `TODO.md`.
 
-## Naming
-
-Always write the product as **`web-print-pdf (Web Print Expert)`** (Chinese docs: `web-print-pdf（Web Print Expert）`).
-
 ## Pull requests
 
 - Keep descriptions short and neutral.

@@ -189,8 +189,6 @@ Symbols are indicative; always verify on the vendor site.
 
 PRs welcome. Please keep entries factual: name, link, one-line description, and notable constraints (OS, license, hardware lock-in). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-When listing the product, write **`web-print-pdf (Web Print Expert)`**.
-
 ---
 
 ## Translations

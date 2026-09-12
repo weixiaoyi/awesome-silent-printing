@@ -8,19 +8,19 @@ All languages below must be reachable from the top language switcher on every RE
 
 - [x] **English** — `README.md` (canonical / default)
 - [x] **中文 (zh-CN)** — `README.zh-CN.md`
-- [ ] **日本語 (ja)** — `README.ja.md`
-- [ ] **Español (es)** — `README.es.md`
-- [ ] **Português Brasil (pt-BR)** — `README.pt-BR.md`
-- [ ] **한국어 (ko)** — `README.ko.md`
-- [ ] **Deutsch (de)** — `README.de.md`
-- [ ] **Русский (ru)** — `README.ru.md`
+- [x] **日本語 (ja)** — `README.ja.md`
+- [x] **Español (es)** — `README.es.md`
+- [x] **Português Brasil (pt-BR)** — `README.pt-BR.md`
+- [x] **한국어 (ko)** — `README.ko.md`
+- [x] **Deutsch (de)** — `README.de.md`
+- [x] **Русский (ru)** — `README.ru.md`
 
 ### i18n rules
 
 1. Keep section structure aligned with `README.md`.
 2. Update the language switcher on **every** README when a new language goes live.
 3. Prefer native-quality translation over machine dump; factual tool descriptions first.
-4. Placeholder pages may exist before full translation; mark status in the Translations table.
+4. Long-form `docs/` guides ship for all README languages (EN / zh-CN / ja / es / pt-BR / ko / de / ru).
 
 ## Contributing docs
 
@@ -32,13 +32,16 @@ All languages below must be reachable from the top language switcher on every RE
 
 - [x] Phase A README structure (limits / choose / bridges / vendors / remote / not-silent / matrix)
 - [x] Comparison matrices: platform/payload + API friendliness + English + online demo
-- [ ] Dead-link check pass
-- [ ] Topics / description ready for GitHub publish
-- [ ] Phase B docs: how-silent-printing-works + choose-a-silent-print-stack (EN + zh-CN)
+- [x] Dead-link check pass (Zebra/Epson URLs updated to publicly reachable pages)
+- [x] Topics / description listed for GitHub About (user applies)
+- [x] Phase B docs under `docs/` (browser silent print hub, alternatives, thermal, deeper guides)
+- [x] Hub first in README Guides; full 8-language README switcher (EN / zh-CN / ja / es / pt-BR / ko / de / ru)
+- [ ] Mirror P0/P1 docs onto webprintpdf.com for real Google SEO (GitHub alone is not enough)
 
 ## Publish
 
-- [ ] Initial commit
-- [ ] Create public GitHub repository `awesome-silent-printing`
-- [ ] Push `main`
+- [x] Initial commit
+- [x] Create public GitHub repository `awesome-silent-printing`
+- [x] Push `main` (baseline)
+- [ ] Push docs + README updates when ready
 - [ ] Submit to related awesome meta-lists (after content is solid)
